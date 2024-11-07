@@ -5,17 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Group"
-    url: /group/
+ # - title: "Group"
+#    url: /group/
   
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
-  - title: "Guide"
+  - title: "Group"
     url: /markdown/
