@@ -1,7 +1,7 @@
 ---
 title: "Group"
 collection: group
-permalink: /group
+permalink: /group/group1
 ---
 
 PhD Students
