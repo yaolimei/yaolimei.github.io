@@ -10,19 +10,20 @@ redirect_from:
 靳若春，国防科技大学计算机学院助理研究员，爱丁堡大学信息学博士（数据库方向），研究方向为数据库理论与系统、数据质量、大模型评测技术。近年来在SIGMOD、VLDB、ICDE、TODS等CCF-A类数据库顶级会议与期刊发表学术论文10篇，授权/申请专利6项，主持国自科青年基金项目、国家重点实验室课题。担任CCF数据库专委会执行委员、CCF软件工程专委会委员。主讲本科专业必修课《数据科学与大数据基础》。
 
 科研方向
-======
+------
 数据库理论与系统  
 数据质量  
 大模型评测技术  
 
 新闻
-======
+------
 2024/11 担任软件大会2024大模型评测技术论坛主席
 
 代表论文
-======
+------
 （[DBLP](https://dblp.uni-trier.de/pid/197/9561.html) Google Scholoar）
 
-For more info
+承担科研情况
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
