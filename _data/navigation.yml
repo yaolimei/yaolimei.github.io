@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
- # - title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -14,8 +14,8 @@ main:
   - title: "Group"
     url: /group/
   
- # - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Guide"
+    url: /markdown/
