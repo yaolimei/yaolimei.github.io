@@ -1,17 +1,8 @@
-#---
-#title: "Group"
-#collection: group
-#permalink: /group
-#---
-
 ---
-permalink: /group
 title: "Group"
 collection: group
+permalink: /group
 author_profile: true
-redirect_from: 
-  - /md/
-  - /group.html
 ---
 
 
