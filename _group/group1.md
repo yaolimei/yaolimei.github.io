@@ -18,5 +18,5 @@ Master Students(Graduated)
 
 Bachelor Students
 ======
-Limei Yao(Year 4; 2021)
+Limei Yao (Year 4; 2021)
 
