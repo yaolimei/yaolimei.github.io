@@ -1,9 +1,11 @@
 ---
 title: "Group"
 collection: group
-type: "Undergraduate course"
-permalink: /group/group1
-# Group
+permalink: /
+---
+
+
+#Group
 
 ## PhD Students
 
