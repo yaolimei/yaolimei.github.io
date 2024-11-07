@@ -1,23 +1,22 @@
 ---
 title: "Group"
 collection: group
-permalink: /
+permalink: /group
 ---
 
+PhD Students
+======
 
-# Group
+PhD Students (Graduated)
+======
 
-## PhD Students
+Master Students
+======
 
-## PhD Students (Graduated)
+Master Students(Graduated)
+======
 
-## Master Students
-
-## Master Students(Graduated)
-
-## Bachelor Students
+Bachelor Students
+======
 Limei Yao(Year 4; 2021)
-
-
-
 
