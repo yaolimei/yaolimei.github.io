@@ -21,7 +21,7 @@ redirect_from:
 
 代表论文
 ======
-（[DBLP](https://pages.github.com/) [Google Scholoar]）
+（[DBLP](https://dblp.uni-trier.de/pid/197/9561.html) Google Scholoar）
 
 For more info
 ------
