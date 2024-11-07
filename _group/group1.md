@@ -1,6 +1,6 @@
 ---
 title: "Group"
-collection:group
+collection: group
 type: "Undergraduate course"
 permalink: /group/group1
 venue: "University 1, Department"
